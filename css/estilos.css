@@ -17,6 +17,8 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    text-align: center;
+
 }
 
 #cabecera #logo
@@ -31,6 +33,39 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+
+
+#ccabecera_pie
+{
+    background: rgb(51, 170, 91);
+    color     : rgb(0, 38, 255);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    font-weight: bold;
+    margin    :   0;
+    padding: 0.5em;
+
+}
+#cabecera_pie #tagline_pie
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
+
+#footer
+{
+    background: rgb(181, 25, 124);
+    color     : rgb(0, 38, 255);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    font-weight: bold;
+    margin    :   0;
+    padding: 0.5em;
+    text-align: center;
+
+}
+
+
 
 #container
 {
